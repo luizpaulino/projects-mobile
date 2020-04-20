@@ -34,8 +34,6 @@ export default function App() {
       }
     });
 
-    console.log(repositoriesUpdated)
-
     setRepositories(repositoriesUpdated);
   }
 
